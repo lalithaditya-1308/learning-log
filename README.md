@@ -179,7 +179,7 @@ My next goal is to learn another tool using the same five-step method and practi
 - **Tools Explored:** FFmpeg and qrencode
 - **Commit Message:** `Add learning log for FFmpeg and qrencode`
 
-**Repository URL:** [Add your GitHub repository URL here]
+**Repository URL:**(https://github.com/lalithaditya-1308/learning-log.git)
 
 **Commit Hash:** [Add your commit hash here]
 
